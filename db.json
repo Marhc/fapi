@@ -5,6 +5,12 @@
       "title": "Olá Mundo"
     }
   ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
